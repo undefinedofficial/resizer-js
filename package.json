@@ -1,0 +1,27 @@
+{
+  "name": "resizer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "resize image to sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "dependencies": {
+    "jimp": "^0.22.10"
+  },
+  "author": "undefined",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undefinedofficial/resizer-js.git"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "undefinedofficial"
+  ],
+  "bugs": {
+    "url": "https://github.com/undefinedofficial/resizer-js/issues"
+  }
+}
